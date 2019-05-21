@@ -48,8 +48,8 @@
   <element>
     <id>UMLUseCase</id>
     <coordinates>
-      <x>272</x>
-      <y>240</y>
+      <x>280</x>
+      <y>232</y>
       <w>96</w>
       <h>32</h>
     </coordinates>
@@ -61,28 +61,28 @@
     <coordinates>
       <x>152</x>
       <y>200</y>
-      <w>136</w>
-      <h>72</h>
+      <w>144</w>
+      <h>64</h>
     </coordinates>
     <panel_attributes/>
-    <additional_attributes>10.0;10.0;150.0;70.0</additional_attributes>
+    <additional_attributes>10.0;10.0;160.0;60.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
       <x>152</x>
       <y>200</y>
-      <w>136</w>
-      <h>176</h>
+      <w>144</w>
+      <h>160</h>
     </coordinates>
     <panel_attributes/>
-    <additional_attributes>10.0;10.0;150.0;200.0</additional_attributes>
+    <additional_attributes>10.0;10.0;160.0;180.0</additional_attributes>
   </element>
   <element>
     <id>UMLUseCase</id>
     <coordinates>
-      <x>272</x>
-      <y>344</y>
+      <x>280</x>
+      <y>328</y>
       <w>96</w>
       <h>32</h>
     </coordinates>
@@ -92,26 +92,26 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>360</x>
+      <x>368</x>
       <y>160</y>
-      <w>112</w>
-      <h>112</h>
+      <w>104</w>
+      <h>104</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
 &lt;&lt;include&gt;&gt;</panel_attributes>
-    <additional_attributes>120.0;10.0;10.0;120.0</additional_attributes>
+    <additional_attributes>110.0;10.0;10.0;110.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>360</x>
+      <x>368</x>
       <y>200</y>
-      <w>112</w>
-      <h>72</h>
+      <w>104</w>
+      <h>64</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
 &lt;&lt;include&gt;&gt;</panel_attributes>
-    <additional_attributes>120.0;15.0;10.0;70.0</additional_attributes>
+    <additional_attributes>110.0;15.0;10.0;60.0</additional_attributes>
   </element>
   <element>
     <id>UMLUseCase</id>
@@ -127,14 +127,14 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>360</x>
-      <y>240</y>
-      <w>112</w>
-      <h>32</h>
+      <x>368</x>
+      <y>232</y>
+      <w>104</w>
+      <h>40</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
 &lt;&lt;include&gt;&gt;</panel_attributes>
-    <additional_attributes>120.0;20.0;10.0;20.0</additional_attributes>
+    <additional_attributes>110.0;30.0;10.0;20.0</additional_attributes>
   </element>
   <element>
     <id>UMLUseCase</id>
@@ -260,14 +260,14 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>360</x>
-      <y>248</y>
-      <w>112</w>
-      <h>64</h>
+      <x>368</x>
+      <y>240</y>
+      <w>104</w>
+      <h>72</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
 &lt;&lt;include&gt;&gt;</panel_attributes>
-    <additional_attributes>120.0;60.0;10.0;10.0</additional_attributes>
+    <additional_attributes>110.0;70.0;10.0;10.0</additional_attributes>
   </element>
   <element>
     <id>UMLUseCase</id>
@@ -464,19 +464,19 @@
     <id>Relation</id>
     <coordinates>
       <x>376</x>
-      <y>936</y>
-      <w>88</w>
-      <h>40</h>
+      <y>928</y>
+      <w>96</w>
+      <h>48</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
 &lt;&lt;include&gt;&gt;</panel_attributes>
-    <additional_attributes>90.0;20.0;10.0;30.0</additional_attributes>
+    <additional_attributes>100.0;10.0;10.0;40.0</additional_attributes>
   </element>
   <element>
     <id>UMLUseCase</id>
     <coordinates>
-      <x>448</x>
-      <y>936</y>
+      <x>456</x>
+      <y>920</y>
       <w>96</w>
       <h>32</h>
     </coordinates>
@@ -488,18 +488,18 @@
     <coordinates>
       <x>376</x>
       <y>952</y>
-      <w>88</w>
-      <h>64</h>
+      <w>96</w>
+      <h>40</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
 &lt;&lt;include&gt;&gt;</panel_attributes>
-    <additional_attributes>90.0;60.0;10.0;10.0</additional_attributes>
+    <additional_attributes>100.0;30.0;10.0;10.0</additional_attributes>
   </element>
   <element>
     <id>UMLUseCase</id>
     <coordinates>
-      <x>448</x>
-      <y>984</y>
+      <x>456</x>
+      <y>960</y>
       <w>96</w>
       <h>32</h>
     </coordinates>
@@ -512,7 +512,7 @@
       <x>184</x>
       <y>0</y>
       <w>696</w>
-      <h>1048</h>
+      <h>992</h>
     </coordinates>
     <panel_attributes>/挣闲钱系统/
 </panel_attributes>
@@ -613,14 +613,14 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>360</x>
-      <y>352</y>
-      <w>112</w>
-      <h>48</h>
+      <x>368</x>
+      <y>336</y>
+      <w>104</w>
+      <h>64</h>
     </coordinates>
     <panel_attributes>lt=.&gt;
 &lt;&lt;extends&gt;&gt;</panel_attributes>
-    <additional_attributes>120.0;35.0;10.0;10.0</additional_attributes>
+    <additional_attributes>110.0;55.0;10.0;10.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
@@ -740,14 +740,14 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>360</x>
-      <y>248</y>
+      <x>368</x>
+      <y>240</y>
       <w>112</w>
-      <h>104</h>
+      <h>112</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
 &lt;&lt;include&gt;&gt;</panel_attributes>
-    <additional_attributes>120.0;110.0;10.0;10.0</additional_attributes>
+    <additional_attributes>110.0;120.0;10.0;10.0</additional_attributes>
   </element>
   <element>
     <id>UMLUseCase</id>
@@ -785,47 +785,70 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>536</x>
+      <x>544</x>
       <y>912</y>
-      <w>408</w>
-      <h>56</h>
+      <w>400</w>
+      <h>40</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
 &lt;&lt;service&gt;&gt;</panel_attributes>
-    <additional_attributes>490.0;10.0;10.0;50.0</additional_attributes>
+    <additional_attributes>480.0;10.0;10.0;30.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>536</x>
-      <y>944</y>
-      <w>408</w>
-      <h>48</h>
+      <x>544</x>
+      <y>928</y>
+      <w>400</w>
+      <h>64</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
 &lt;&lt;service&gt;&gt;</panel_attributes>
-    <additional_attributes>490.0;40.0;10.0;10.0</additional_attributes>
+    <additional_attributes>480.0;60.0;10.0;10.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
       <x>152</x>
-      <y>160</y>
-      <w>144</w>
-      <h>64</h>
+      <y>168</y>
+      <w>136</w>
+      <h>56</h>
     </coordinates>
     <panel_attributes/>
-    <additional_attributes>10.0;60.0;160.0;10.0</additional_attributes>
+    <additional_attributes>10.0;50.0;150.0;10.0</additional_attributes>
   </element>
   <element>
     <id>UMLUseCase</id>
     <coordinates>
-      <x>280</x>
-      <y>152</y>
+      <x>272</x>
+      <y>160</y>
       <w>96</w>
       <h>32</h>
     </coordinates>
     <panel_attributes>资金管理</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>560</x>
+      <y>408</y>
+      <w>408</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+&lt;&lt;service&gt;&gt;</panel_attributes>
+    <additional_attributes>490.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>952</x>
+      <y>416</y>
+      <w>80</w>
+      <h>24</h>
+    </coordinates>
+    <panel_attributes>邮箱/短信服务</panel_attributes>
     <additional_attributes/>
   </element>
 </diagram>
