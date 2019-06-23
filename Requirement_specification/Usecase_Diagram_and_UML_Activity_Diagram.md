@@ -11,32 +11,32 @@
 # Usecase-diagram
 下图为整个系统的用例一览，具体用例描述见UseCases文档
 
-![usecases](/imgs/usecases.png)
+![usecases](imgs/usecases.png)
 
 # Activity-diagram
 
 * 注册业务：
 
-![register](/imgs/register.PNG)
+![register](imgs/register.PNG)
 
 * 登录业务：
 
-![log-in](/imgs/log-in.png)
+![log-in](imgs/log-in.png)
 
 * 奶牛发布任务：
 
-![release-task](/imgs/release-task.PNG)
+![release-task](imgs/release-task.PNG)
 
 * 奶牛回收任务
 
-![finish-task](/imgs/finish-task.PNG)
+![finish-task](imgs/finish-task.PNG)
 
 * 学生接受任务
 
-![accept-task](/imgs/accept-task.png)
+![accept-task](imgs/accept-task.png)
 
 * 身份认证
 
-![user-authentication](/imgs/user-authentication.png)
+![user-authentication](imgs/user-authentication.png)
 
 更多业务过程描述见UseCases文档。

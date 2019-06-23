@@ -5,4 +5,4 @@
 # Domain Model
 
 系统的领域模型如下：
-![Domain Model](/imgs/领域模型.png)
+![Domain Model](imgs/领域模型.png)
