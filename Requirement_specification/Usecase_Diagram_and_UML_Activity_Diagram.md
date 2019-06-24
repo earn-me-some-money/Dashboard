@@ -25,7 +25,7 @@
 
 * 奶牛发布任务：
 
-![release-task](imgs/release-task.PNG)
+![release-task](imgs/release-task.png)
 
 * 奶牛回收任务
 
