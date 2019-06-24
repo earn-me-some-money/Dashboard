@@ -17,7 +17,7 @@
     + 7.2 [Database design](/BackEnd_Docs/7.2-数据库设计.md)(数据库设计)
     + 7.3 [Interface API design](/BackEnd_Docs/7.3-API设计说明书.md/)(接口API设计)
     + 7.4 [Architecture design](/BackEnd_Docs/7.4-架构设计文档.md)(架构设计)
-    + 7.5 [Usecase design]()(用例设计)
+    + 7.5 [Usecase design](/Design/Usecase_design.md)(用例设计)
 
 * 8、生产规范与指南
     + 8.1 代码规范
@@ -43,17 +43,17 @@
 * X2 [KANBAN](https://github.com/orgs/earn-me-some-money/projects)
 * X3 [auditing-records](/auditing-records.md/)
 * X4 Tech/Work Report
-    + [16340006](/Reports/16340006-Work-Report.md)
-    + [16340008](/Reports/16340008-Work-Report.md)
-    + [16340022](/Reports/16340022-Work-Report.md)
-    + [16340023](/Reports/16340023-Work-Report.md)
-    + [16340024](/Reports/16340024-Work-Report.md)
-    + [16340025](/Reports/16340025-Work-Report.md)
+    + [16340006](/16340006-Reports/16340006-Work-Report.md)
+    + [16340008](/16340008-Reports/16340008-Work-Report.md)
+    + [16340022](/16340022-Reports/16340022-Work-Report.md)
+    + [16340023](/16340023-Reports/16340023-Work-Report.md)
+    + [16340024](/16340024-Reports/16340024-Work-Report.md)
+    + [16340025](/16340025-Reports/16340025-Work-Report.md)
 * X5 Final Report
-    + [16340006-cait7](/Reports/16340006-Final-Report.md)
-    + [16340008-azu](/Reports/16340008-Final-Report.md)
-    + [16340022-chenjm95](/Reports/16340022-Final-Report.md)
-    + [16340023-Palette25](/Reports/16340023-Final-Report.md)
-    + [16340024-miguch](/Reports/16340024-Final-Report.md)
-    + [16340025-Krazymud](/Reports/16340025-Final-Report.md)
+    + [16340006-cait7](/16340006-Reports/16340006-Final-Report.md)
+    + [16340008-azu](/16340008-Reports/16340008-Final-Report.md)
+    + [16340022-chenjm95](/16340022-Reports/16340022-Final-Report.md)
+    + [16340023-Palette25](/16340023-Reports/16340023-Final-Report.md)
+    + [16340024-miguch](/16340024-Reports/16340024-Final-Report.md)
+    + [16340025-Krazymud](/16340025-Reports/16340025-Final-Report.md)
     + [小组分工与贡献率说明](/小组分工与贡献率说明.md/)
