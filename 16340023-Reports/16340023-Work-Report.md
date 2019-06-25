@@ -55,10 +55,22 @@ Actix-web 是 Rust 的一个简单、实用且极其快速的 Web 框架。
 
 ## 使用Cargo工具构建Actix-Web项目
 
-1. cargo是一款很实用的Rust项目开发管理工具，安装完Rust编译环境之后(具体安装流程请点击：[传送门](https://www.rust-lang.org/learn/get-started))，cargo便可以直接使用命令行进行使用，新建项目命令如下：
+1. cargo是一款很实用的Rust项目构建与包管理工具，安装完Rust编译环境之后(具体安装流程请点击：[传送门](https://www.rust-lang.org/learn/get-started))，cargo便可以直接使用命令行进行使用，新建项目命令如下：
 
    ```bash
    $ cargo new hello_world --bin
+   ```
+
+   cargo工具主要负责三个工作：
+
+   * 构建`build`代码
+   * 下载代码依赖`dependencies`的包装箱`crate`
+   * 编译项目源码与包装箱`crate`
+
+   检查当前命令行下可否正常使用cargo，通常查看其版本是否正常显示：
+
+   ```bash
+   $ cargo --version
    ```
 
    ​
@@ -70,6 +82,8 @@ Actix-web 是 Rust 的一个简单、实用且极其快速的 Web 框架。
    'package_name' = 'package_version'
    ```
 
+   在Rust中，这些外部依赖库通常被称为包装箱`crate`，类似于其他语言的库`library`或者`package`
+
    ​
 
 3. 相应的依赖文件添加完成之后，我们便可以在`src`文件夹内创建对应的源程序文件`main.rs`，作为入门示例，编写`Rust`语言下的`hello-world`：
@@ -79,6 +93,8 @@ Actix-web 是 Rust 的一个简单、实用且极其快速的 Web 框架。
        println!("Hello, world!");  
    }
    ```
+
+   当用户第一次`build`项目时，cargo会进行当前依赖的包装箱版本进行查找，并且记录到`Cargo.lock`中，在你第二次进行`build`操作时，直接读取`Cargo.lock`文件内部每个包装箱的版本号，而不是再去查明和记录所需依赖的版本号，这让你有了一个可重复的自动构建过程。
 
    ​
 
@@ -96,7 +112,7 @@ Actix-web 是 Rust 的一个简单、实用且极其快速的 Web 框架。
 
    运行编译完成的可执行文件
 
-
+   ​
 
 
 5. 很多时候会因为依赖库版本冲突问题，导致程序编译时出现较多错误，此时可以使用：
@@ -119,11 +135,38 @@ Actix-web 是 Rust 的一个简单、实用且极其快速的 Web 框架。
 
    ```toml
    [dependencies]
-   ...
    actix-web = {version = "1.0", features = ["ssl", "client"] }
    actix-multipart = "0.1.2"
-   ...
    ```
 
    ​
 
+7. 关于cargo配置国内镜像源的补充：在进行依赖文件下载时，网速的高低起到决定性的作用，但由于Rust官方源网站被墙得过于严重，所以为了提升下载速度，需要更换cargo的下载镜像源：
+
+   * 在`$HOME/.cargo/config`中添加以下内容，切换为中科大镜像源：
+
+     ```toml
+     [source.crates-io]
+     replace-with = 'ustc'
+
+     [source.ustc]
+     registry = "git://mirrors.ustc.edu.cn/crates.io-index"
+     ```
+
+     ​
+
+   * 更新配置文件，使其生效：
+
+     ```bash
+     $ source $HOME/.cargo/config
+     ```
+
+     ​
+
+   * 如果所处的环境中`git`协议不能使用，可以更改为`https`协议：
+
+     ```toml
+     registry = "https://mirrors.ustc.edu.cn/crates.io-index"
+     ```
+
+     ​
