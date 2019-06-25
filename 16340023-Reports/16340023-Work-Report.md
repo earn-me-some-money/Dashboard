@@ -2,6 +2,10 @@
 
 > System Analsis course's personal work report
 
+### 姓名：陈明亮
+
+### 学号：16340023
+
 
 
 ## 何为Rust语言？
@@ -53,8 +57,8 @@ Actix-web 是 Rust 的一个简单、实用且极其快速的 Web 框架。
 
 1. cargo是一款很实用的Rust项目开发管理工具，安装完Rust编译环境之后(具体安装流程请点击：[传送门](https://www.rust-lang.org/learn/get-started))，cargo便可以直接使用命令行进行使用，新建项目命令如下：
 
-   ```shell
-   cargo new hello_world --bin
+   ```bash
+   $ cargo new hello_world --bin
    ```
 
    ​
@@ -64,6 +68,61 @@ Actix-web 是 Rust 的一个简单、实用且极其快速的 Web 框架。
    ```toml
    [dependencies]
    'package_name' = 'package_version'
+   ```
+
+   ​
+
+3. 相应的依赖文件添加完成之后，我们便可以在`src`文件夹内创建对应的源程序文件`main.rs`，作为入门示例，编写`Rust`语言下的`hello-world`：
+
+   ```rust
+   fn main() {  
+       println!("Hello, world!");  
+   }
+   ```
+
+   ​
+
+4. 返回项目根目录下，运行：
+
+   ```bash
+   $ cargo build
+   ```
+
+   编译当前完成的项目源文件，同时使用：
+
+   ```bash
+   $ cargo run
+   ```
+
+   运行编译完成的可执行文件
+
+
+
+
+5. 很多时候会因为依赖库版本冲突问题，导致程序编译时出现较多错误，此时可以使用：
+
+   ```bash
+   $ cargo update
+   ```
+
+   升级当前低版本的依赖库。
+
+   同时，`cargo`工具还附带另外一种特色用法，即格式化当前源程序中的代码风格，成为`Rust`的标准编码风格：
+
+   ```bash
+   $ cargo fmt
+   ```
+
+   ​
+
+6. 关于对`Actix_web`框架项目的构建，实际上也只需要在`Cargo.toml`中添加对应的依赖项，即可在代码编写中使用相应的函数接口进行编程：
+
+   ```toml
+   [dependencies]
+   ...
+   actix-web = {version = "1.0", features = ["ssl", "client"] }
+   actix-multipart = "0.1.2"
+   ...
    ```
 
    ​
