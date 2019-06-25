@@ -23,8 +23,8 @@
     + 8.1 代码规范
         - [后端代码规范](/BackEnd_Docs/8.1-代码规范-后端代码规范.md/)
         - [前端代码规范]()
-    + 8.2 [REST API设计规范](/BackEnd_Docs/8.2-REST%20API设计规范.md/)
-    + 8.3 [架构设计、详细设计(BCE方法)到应用程序框架映射指南](/BackEnd_Docs/8.3-逻辑架构到应用程序映射指南(BCE).md)
+    + 8.2 [REST API设计规范](/BackEnd_Docs/8.2-RESTAPI设计规范.md/)
+    + 8.3 [架构设计、详细设计(BCE方法)到应用程序框架映射指南](/BackEnd_Docs/8.3-逻辑架构到应用程序映射指南.md)
     + 8.4 [docker部署报告](/BackEnd_Docs/8.4-部署说明.md)
 
 * 9、测试
