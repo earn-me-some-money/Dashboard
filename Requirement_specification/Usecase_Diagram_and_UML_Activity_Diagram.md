@@ -4,8 +4,7 @@
 
 # About
 本文档给出了整个项目系统的用例模型，以及部分业务过程模型。
-* <a href="#Usecase-diagram">Usecase-diagram</a>
-* <a href="#Activity-diagram">Activity-diagram</a>
+
 
 
 # Usecase-diagram
