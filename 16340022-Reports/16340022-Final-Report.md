@@ -38,6 +38,8 @@
 
 ## github仓库
 
+![git统计](git统计.png)
+
 ## 个人博客
 [Atom中使用markdown插件编辑文本](16340022-Work-Report.md)
 
