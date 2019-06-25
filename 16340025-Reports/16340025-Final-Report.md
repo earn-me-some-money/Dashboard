@@ -20,27 +20,37 @@
 
 ### PSP2.1统计表
 
-|                PSP2.1                 | Time |
-| :-----------------------------------: | :--: |
-|             **Planning**              |  9   |
-|               Estimate                |  9   |
-|            **Development**            |  41  |
-|               Analysis                |  18  |
-|              Design Spec              |  13  |
-|             Design Review             |  3   |
-|            Coding Standard            |  2   |
-|                Design                 |  15  |
-|                Coding                 |  15  |
-|              Code Review              |  5   |
-|                 Test                  |  22  |
-|             **Reporting**             |  10  |
-|              Test Report              |  1   |
-|           Size Measurement            |  1   |
-| Postmortem & Process Improvement Plan |  8   |
+|                PSP2.1                 | Time(%) |
+| :-----------------------------------: | :-----: |
+|             **Planning**              |  **9**  |
+|               Estimate                |    9    |
+|            **Development**            | **81**  |
+|               Analysis                |   13    |
+|              Design Spec              |   13    |
+|             Design Review             |    3    |
+|            Coding Standard            |    2    |
+|                Design                 |   10    |
+|                Coding                 |   15    |
+|              Code Review              |    5    |
+|                 Test                  |   20    |
+|             **Reporting**             | **10**  |
+|              Test Report              |    1    |
+|           Size Measurement            |    1    |
+| Postmortem & Process Improvement Plan |    8    |
 
 
 
 ### Git统计
 
+**server端**
 
+![](imgs/git1.png)
+
+**Document仓库**
+
+![](imgs/git2.png)
+
+**DashBoard**
+
+![](imgs/git3.png)
 
