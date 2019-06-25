@@ -1,7 +1,6 @@
 ### 个人信息
 
 - 学号：16340025
-- 姓名：陈慕远
 - Github：[Krazymud](https://github.com/Krazymud)
 
 
