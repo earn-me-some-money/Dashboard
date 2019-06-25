@@ -50,12 +50,18 @@
 ## 贡献率说明
 
 1. 服务端主仓库贡献(emtm-web)
-![img](1.png)
+  ![img](1.png)
+
+  ​
 
 
 2. 文档仓库贡献(Document)
-![img](2.png)
+  ![img](2.png)
+
+  ​
 
 
 3. 仪表盘仓库贡献(Dashboard)
-![img](3.png)
+  ![img](3.png)
+
+  ​
