@@ -1,0 +1,51 @@
+## 部署流程
+
+## 服务端
+
+### Caddy 安装
+
+根据 [Caddy 官网](https://caddyserver.com/download) 的指引下载或根据 [Caddy Wiki](https://github.com/mholt/caddy/wiki/Plugging-in-Plugins-Yourself) 上的指引添加扩展后编译。
+
+### Caddyfile 编写
+
+项目仅需要配置 Caddy 的反向代理功能，编写较为简单：
+
+```caddyfile
+xxx.yyy.zzz {
+	header / {
+    		Access-Control-Allow-Origin  *
+    		Strict-Transport-Security "max-age=31536000;"
+	}
+	tls xxx@yyy.zzz
+	proxy / http://127.0.0.1:6789
+}
+```
+
+根据如上配置 Caddy 可自动申请对应`xxx.yyy.zzz`的 TLS 证书并开启 HSTS。反向代理将把所有请求发至6789端口。
+
+### Docker 安装
+
+根据[Docker 官网](https://docs.docker.com/install/linux/docker-ce/ubuntu/)上不同系统的指引进行安装
+
+### Docker Compose 安装
+
+根据[Docker 官网](https://docs.docker.com/compose/install/)上不同系统的指引进行安装
+
+### 在`.env`文件中填写信息
+
+`.env`文件中需要的信息如下：
+
+```
+TENCENT_APP_ID=$APPID
+TENCENT_APP_KEY=$APP_KEY
+EMTM_INDEX_DIR=./emtm-indexes/
+```
+
+其中`TENCENT_APP_ID`与`TENCENT_APP_KEY`来源于腾讯 AI 开放平台。`EMTM_INDEX_DIR`为搜索功能的索引存储路径。`DATABASE_URL` 在 docker-compose中设置因此可不需要在`.env`中设置。
+
+### 使用 docker compose 部署
+
+```shell
+docker-compose up -d
+```
+
