@@ -7,7 +7,7 @@
 | 16340008 |           |      |           |
 | 16340022 |           |      |           |
 | 16340023 | Palette25 | 需求审计 |  https://github.com/TimeForCoin/Server/issues/5  |
-| 16340024 |           |      |           |
+| 16340024 | miguch | 需求审计 | https://github.com/TimeForCoin/Dashboard/issues/1 |
 | 16340025 | Krazymud  | 需求审计 | <https://github.com/TimeForCoin/Server/issues/6> |
 
 
@@ -18,5 +18,5 @@
 | 16340008 |           |      |           |
 | 16340022 |           |      |           |
 | 16340023 | Palette25 | 设计审计 |  https://github.com/TimeForCoin/Client/issues/29  |
-| 16340024 |           |      |           |
+| 16340024 | miguch | API 设计审计 | https://github.com/sysu-abi/docs/issues/4 |
 | 16340025 | Krazymud  | 设计审计 | <https://github.com/TimeForCoin/Client/issues/30> |
