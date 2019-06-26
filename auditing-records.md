@@ -4,7 +4,7 @@
 | 学号     | github-id | 标题 | issue url |
 | -------- | --------- | ---- | --------- |
 | 16340006 |           |      |           |
-| 16340008 |           |      |           |
+| 16340008 |Azuki-Azusa|需求审计| https://github.com/sysu-abi/docs/issues/5#issue-461113719 |
 | 16340022 |           |      |           |
 | 16340023 | Palette25 | 需求审计 |  https://github.com/TimeForCoin/Server/issues/5  |
 | 16340024 | miguch | 需求审计 | https://github.com/TimeForCoin/Dashboard/issues/1 |
@@ -15,7 +15,7 @@
 | 学号     | github-id | 标题 | issue url |
 | -------- | --------- | ---- | --------- |
 | 16340006 |           |      |           |
-| 16340008 |           |      |           |
+| 16340008 |Azuki-Azusa|前端设计审计| https://github.com/kesongyueproject/EarnSpareMoney/issues/21#issue-461094780 |
 | 16340022 |           |      |           |
 | 16340023 | Palette25 | 设计审计 |  https://github.com/TimeForCoin/Client/issues/29  |
 | 16340024 | miguch | API 设计审计 | https://github.com/sysu-abi/docs/issues/4 |
