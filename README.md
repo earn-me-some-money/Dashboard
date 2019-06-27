@@ -19,7 +19,7 @@
     + 6.6 [Supplementary Requirements (补充需求)](/Requirement_specification/Supplementary_Requirements.md)
 
 * 7、Design(设计说明书)
-    + 7.1 [UI design]()(界面设计)
+    + 7.1 [UI design](/Design/UI_design.md)(界面设计)
     + 7.2 [Database design](/BackEnd_Docs/7.2-数据库设计.md)(数据库设计)
     + 7.3 [Interface API design](/BackEnd_Docs/7.3-API设计说明书.md/)(接口API设计)
     + 7.4 [Architecture design](/BackEnd_Docs/7.4-架构设计文档.md)(架构设计)
@@ -28,7 +28,7 @@
 * 8、生产规范与指南
     + 8.1 代码规范
         - [后端代码规范](/BackEnd_Docs/8.1-代码规范-后端代码规范.md/)
-        - [前端代码规范]()
+        - [前端代码规范](https://shimo.im/docs/EZKacqyM018gmopv/read)
     + 8.2 [REST API设计规范](/BackEnd_Docs/8.2-RESTAPI设计规范.md/)
     + 8.3 [架构设计、详细设计(BCE方法)到应用程序框架映射指南](/BackEnd_Docs/8.3-逻辑架构到应用程序映射指南.md)
     + 8.4 [docker部署报告](/BackEnd_Docs/8.4-部署说明.md)
