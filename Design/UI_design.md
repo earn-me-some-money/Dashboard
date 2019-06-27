@@ -4,49 +4,57 @@
 # 一、登陆和认证
 进入微信小程序，个人页面，注册：
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190627013643522.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NhaXRf,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](cait_images/登陆.png)
 
 授权：
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190627013701789.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NhaXRf,size_16,color_FFFFFF,t_70)
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190627013708835.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NhaXRf,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](cait_images/登陆2.png)
+
+![在这里插入图片描述](cait_images/登陆3.png)
+
 注册：
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190627013729527.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NhaXRf,size_16,color_FFFFFF,t_70)
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190627013736591.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NhaXRf,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](cait_images/登陆4.png)
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190627013748887.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NhaXRf,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](cait_images/登陆5.png)
 
 认证：
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190627013759539.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NhaXRf,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](cait_images/登陆7.png)
 
 ## 4.2 查看首页推荐任务
+
 推荐任务列表：
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190627014146241.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NhaXRf,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](cait_images/首页.png)
+
 按任务类别进行查看：
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190627014205569.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NhaXRf,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](cait_images/首页2.png)
+
 查看任务详情：
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190627014217775.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NhaXRf,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](cait_images/首页3.png)
+
 接受任务：
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190627014232491.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NhaXRf,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](cait_images/首页4.png)
+
 接受任务失败，不满足任务要求：
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190627014306568.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NhaXRf,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](cait_images/首页5.png)
 
 接受任务成功：
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190627014400128.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NhaXRf,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](cait_images/首页6.png)
+
 按关键字查询任务：
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190627014418314.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NhaXRf,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](cait_images/搜索1.png)
+
 查询结果：
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/2019062701444129.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NhaXRf,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](cait_images/搜索2.png)
 
 ## 4.3 查看我的任务
 
