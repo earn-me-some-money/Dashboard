@@ -14,6 +14,6 @@
 ## 贡献度说明
 emtm-wxcode仓库的代码贡献：
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190627022859510.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NhaXRf,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](16340006_img/贡献度1)
 代码频率图：
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190627022918343.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NhaXRf,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](16340006_img/code_frequency.png)
